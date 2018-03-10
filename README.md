@@ -6,11 +6,8 @@ This is a Tensorflow implementation of Generative Adversarial Network integrated
   <img src = "https://github.com/akshath123/Capsule_Generative_Adversarial_Network/blob/master/sample/github_capsgan.PNG">
 </p>
 
-### Capsule Network 
-
-It is the 
-
 ### Few Other good work what I refered
 
 DCGAN training https://github.com/FelixMohr/Deep-learning-with-Python/blob/master/DCGAN-MNIST.ipynb
+</br>
 Keras implementation of Generative Adversarial Network https://github.com/gusgad/capsule-GAN
