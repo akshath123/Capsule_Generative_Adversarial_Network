@@ -10,4 +10,3 @@ This is a Tensorflow implementation of Generative Adversarial Network integrated
 
 DCGAN training https://github.com/FelixMohr/Deep-learning-with-Python/blob/master/DCGAN-MNIST.ipynb
 </br>
-Keras implementation of Generative Adversarial Network https://github.com/gusgad/capsule-GAN
